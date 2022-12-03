@@ -1,0 +1,6 @@
+**/*
+!datapack
+!datapack/**/*
+!.gitignore
+!frames
+!frames/**/*
